@@ -15,7 +15,7 @@ While there are no prerequisites for taking this course, people who are approach
 
 # Project Ideas
 
-I haven't developed in depth project ideas, however I am eager to work on accessibility to public transportation for disadvantged population groups, such as those living in informal settlements (although that data might be hard to find, as collecting data on informalityis challenging). I am also open to other projects that are focussed on cities in the Global South. 
+I haven't developed in depth project ideas, however I am eager to work on accessibility to public transportation for disadvantaged population groups, such as those living in informal settlements (although that data might be hard to find, as collecting data on informality is challenging). I am also open to other projects that are focussed on cities in the Global South. 
 
 # Course objectives 
 
