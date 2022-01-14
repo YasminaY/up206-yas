@@ -19,4 +19,4 @@ I haven't developed in depth project ideas, however I am eager to work on access
 
 # Course objectives 
 
-I hope to gain basic knoweldge about Python and GIS taht I can apply to my work, for example on project reports. I also hope that this course enables me to engage more with the GIS world, collaborate wih GIS experts and also be more critcal of spatial data analysis. 
+I hope to gain basic knoweldge about Python and GIS that I can apply to my work, for example on project reports. I also hope that this course enables me to engage more with the GIS world, collaborate wih GIS experts and also be more critcal of spatial data analysis. 
