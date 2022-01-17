@@ -6,4 +6,6 @@ First, the GCRO's quality of life survey which is a biennial survey, measuring t
 
 Second, we will need shapefiles of the wards, in order to see what the spatial distribution of attitudes towards foreigners and other races is. 
 
+The data was downloaded from data first, a data repository managed by the University of Cape Town: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/GCRO/about 
+
 The files are available in the data 2 folder. 
